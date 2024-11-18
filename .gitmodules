@@ -1,0 +1,5 @@
+[submodule "theoremator-lib"]
+	path = libs/engine/lib
+	url = https://github.com/3d2069940/theoremator-lib.git
+  branch = master
+  update = merge

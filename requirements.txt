@@ -1,0 +1,9 @@
+numpy
+pylatex
+pymupdf
+python-telegram-bot[job-queue]==21.6
+git+https://github.com/Neveix/tg_bot_base.git@v1.3.17
+pillow
+pylint
+mypy
+aiohttp

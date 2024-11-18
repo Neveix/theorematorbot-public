@@ -1,0 +1,15 @@
+.cache
+build
+.vscode
+Debug
+**/__pycache__
+old_bot
+*.db
+googletest
+*.log
+logs
+**/.mypy_cache
+.venv
+*.db
+pdf
+src/config/**
